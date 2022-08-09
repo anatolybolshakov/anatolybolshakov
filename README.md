@@ -1,16 +1,13 @@
 ### Hi there 👋
+I'm Anatolii, Frontend/Fullstack software engineer.
+My stack: JS/TS, React/Redux, NodeJS, C#/.NET, additional - Python
+Have experience with Azure Pipelines tasks and agent, data visualization (D3), building and supporting React components/SPA, Accessibility (web & mobile & desktop)
 
-<!--
-**anatolybolshakov/anatolybolshakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Love engineering, improving workflows and architectures, diving into open source world.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently looking for a job and open to any suggestions - TYIA!
+- 🌱 I’m currently learning Go, latest vibes in web apps architectures, VueJS
+- 💬 Ask me about Azure Pipelines - time is a limited resource, but I'll try to answer
+- 📫 How to reach me: anatoly1410@gmail.com, [Linkedin](https://www.linkedin.com/in/anatolii-bolshakov-9a25b2199)
+- :orange_book: Hobbies: guitar and music playing, AI and ML, rational thinking (beat the biases!) and how-our-brain-works pragmatic studies (some [amazing book](https://designingthemind.org/) I advice)
+- 😄 Pronouns: [ænəˈtoʊli]
