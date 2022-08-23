@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Anatolii, Frontend/Fullstack software engineer.
-My stack: JS/TS, React/Redux, NodeJS, C#/.NET, additional - Python
-Have experience with Azure Pipelines tasks and agent, data visualization (D3), building and supporting React components/SPA, Accessibility (web & mobile & desktop)
+My stack: JS/TS, React/Redux, NodeJS, C#/.NET, additional - Python.
+Have experience with Azure Pipelines tasks and agent, data visualization (D3), building and supporting React components/SPA, Accessibility (web & mobile & desktop).
 
 Love engineering, improving workflows and architectures, diving into open source world.
 
