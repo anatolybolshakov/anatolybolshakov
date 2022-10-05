@@ -5,7 +5,6 @@ Have experience with Azure Pipelines tasks and agent, data visualization (D3), b
 
 Love engineering, improving workflows and architectures, diving into open source world.
 
-- 🔭 I’m currently looking for a job and open to any suggestions - TYIA!
 - 🌱 I’m currently learning Go, latest vibes in web apps architectures, VueJS
 - 💬 Ask me about Azure Pipelines tasks or agent - time is a limited resource, but I'll try to answer
 - 📫 How to reach me: anatoly1410@gmail.com, [Linkedin](https://www.linkedin.com/in/anatolii-bolshakov-9a25b2199)
